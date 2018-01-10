@@ -4,14 +4,14 @@
 title:               Ed.
 tagline:             'a jekyll theme for minimal editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://elotroalex.github.io'
-baseurl:             '/ed'
+url:                 'https://github.com/KS3863/Digitalhistory.git'
+baseurl:             '/Digitalhistory'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Kelly Spokojny
+  url:               Trevor.org
+  email:             ks3863@trevor.org
 
 # Permalinks
 
