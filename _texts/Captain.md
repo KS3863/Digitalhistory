@@ -15,7 +15,7 @@ source: Poetry Foundation
 - {:.indent-5}Where on the deck my Captain lies,
 - {:.indent-6}Fallen cold and dead.
 
-- O Captain! my Captain! rise up and hear the bells; 
+- O Captain! my Captain! rise up and hear the bells; [^fn4]
 - Rise up—for you the flag is flung—for you the bugle[^fn2] trills,
 - For you bouquets and ribbon’d wreaths—for you the shores a-crowding,
 - For you they call, the swaying mass, their eager faces turning;
@@ -54,3 +54,4 @@ source: Poetry Foundation
 [^fn2]: The bugle is a small trumpet implicated in the military industrial complex.
 
 [^fn3]: Another footnote. Why not? 
+[^fn4]: This is a trial foot note
