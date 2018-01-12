@@ -1,5 +1,5 @@
 ---
-layout: Song
+layout: poem
 title: "Runner"
 author: Kelly Spokojny
 editor: Kelly Spokojny
@@ -15,7 +15,7 @@ source: Kelly's Brain
 - {:.indent-2}But I still love you baby 
 - {:.indent-2}Oh oh oh oh
 
--Chorus:
+- Chorus:
 - {:.indent-2}Ya,
 - {:.indent-2}Woah oh, a million miles running
 - {:.indent-2}What you gonna do boy, I saw thsi coming 
@@ -26,7 +26,7 @@ source: Kelly's Brain
 - {:.indent-2}Ya know, ya know, ya know, ya know, ya know, ya know
 - {:.indent-2}Ya know, ya know, ya know, ya know, ya know, ya know
 
--Verse:
+- Verse:
 - {:.indent-2}Late night I drank too much 
 - {:.indent-2}Tyrina figure out why I'm not enough 
 - {:.indent-2}Heart hurts cna't get over you 
@@ -35,7 +35,7 @@ source: Kelly's Brain
 - {:.indent-2}But I'm so tired of these games wee play 
 - {:.indent-2}Oh oh oh oh
 
--Chorus:
+- Chorus:
 - {:.indent-2} Ya,
 - {:.indent-2}Woah oh, a million miles running
 - {:.indent-2}What you gonna do boy, I saw thsi coming 
