@@ -16,7 +16,7 @@ source: Kelly's Brain
 - {:.indent-2}Oh oh oh oh
 
 -Chorus:
--{:.indent-2}Ya,
+- {:.indent-2}Ya,
 - {:.indent-2}Woah oh, a million miles running
 - {:.indent-2}What you gonna do boy, I saw thsi coming 
 - {:.indent-2}Woah oh, a million miles running
