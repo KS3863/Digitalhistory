@@ -20,6 +20,7 @@ source: Kelly's Brain
 - {:.indent-2}Woah oh, a million miles running
 - {:.indent-2}What you gonna do boy, I saw this coming 
 - {:.indent-2}Woah oh, a million miles running
+- {:.indent-2}What you gonna do boy, I saw this coming 
 - {:.indent-2}Woah oh, a million miles running
 - {:.indent-2}What you gonna do boy, I saw this coming 
 - {:.indent-2}Ya know, ya know, ya know, ya know, ya know, ya know
@@ -66,8 +67,8 @@ source: Kelly's Brain
 - {:.indent-2}Ya know, ya know, ya know, ya know, ya know, ya know
 - {:.indent-2}Ya know, ya know, ya know, ya know, ya know, ya know
 
-{:.indent-2} A million miles running
-{:.indent-2} I hate this but I saw it coming
+- {:.indent-2} A million miles running 
+- {:.indent-2} I hate this but I saw it coming
 
 
 
