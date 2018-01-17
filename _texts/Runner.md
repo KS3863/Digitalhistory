@@ -18,11 +18,10 @@ source: Kelly's Brain
 - Chorus:
 - {:.indent-2}Ya,
 - {:.indent-2}Woah oh, a million miles running
-- {:.indent-2}What you gonna do boy, I saw thsi coming 
+- {:.indent-2}What you gonna do boy, I saw this coming 
 - {:.indent-2}Woah oh, a million miles running
-- {:.indent-2}What you gonna do boy, I saw thsi coming 
 - {:.indent-2}Woah oh, a million miles running
-- {:.indent-2}What you gonna do boy, I saw thsi coming 
+- {:.indent-2}What you gonna do boy, I saw this coming 
 - {:.indent-2}Ya know, ya know, ya know, ya know, ya know, ya know
 - {:.indent-2}Ya know, ya know, ya know, ya know, ya know, ya know
 
@@ -38,10 +37,37 @@ source: Kelly's Brain
 - Chorus:
 - {:.indent-2} Ya,
 - {:.indent-2}Woah oh, a million miles running
-- {:.indent-2}What you gonna do boy, I saw thsi coming 
+- {:.indent-2}What you gonna do boy, I saw this coming 
 - {:.indent-2}Woah oh, a million miles running
-- {:.indent-2}What you gonna do boy, I saw thsi coming 
+- {:.indent-2}What you gonna do boy, I saw this coming 
 - {:.indent-2}Woah oh, a million miles running
-- {:.indent-2}What you gonna do boy, I saw thsi coming 
+- {:.indent-2}What you gonna do boy, I saw this coming 
 - {:.indent-2}Ya know, ya know, ya know, ya know, ya know, ya know
 - {:.indent-2}Ya know, ya know, ya know, ya know, ya know, ya know
+
+- Bridge:
+- {:.indent-2}Oh,
+- {:.indent-2}And I never really did like it
+- {:.indent-2}Somethign aabut the way we used to fight 
+- {:.indent-2}And
+- {:.indent-2}I can't take it anymore
+- {:.indent-2}And its notyour faut you treat me so bad 
+- {:.indent-2}I should've known better than that
+- {:.indent-2}I won't take this anymmore 
+
+- Chorus:
+- {:.indent-2} Ya,
+- {:.indent-2}Woah oh, a million miles running
+- {:.indent-2}What you gonna do boy, I saw this coming 
+- {:.indent-2}Woah oh, a million miles running
+- {:.indent-2}What you gonna do boy, I saw this coming 
+- {:.indent-2}Woah oh, a million miles running
+- {:.indent-2}What you gonna do boy, I saw this coming 
+- {:.indent-2}Ya know, ya know, ya know, ya know, ya know, ya know
+- {:.indent-2}Ya know, ya know, ya know, ya know, ya know, ya know
+
+{:.indent-2} A million miles running
+{:.indent-2} I hate this but I saw it coming
+
+
+
