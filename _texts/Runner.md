@@ -28,8 +28,8 @@ source: Kelly's Brain
 
 - Verse:
 - {:.indent-2}Late night I drank too much 
-- {:.indent-2}Tyrina figure out why I'm not enough 
-- {:.indent-2}Heart hurts cna't get over you 
+- {:.indent-2}Tyring to figure out why I'm not enough [^fn1]
+- {:.indent-2}Heart hurts can't get over you 
 - {:.indent-2}Why you gotta do me the way you do
 - {:.indent-2}We learn for our mistakes
 - {:.indent-2}But I'm so tired of these games wee play 
@@ -69,6 +69,12 @@ source: Kelly's Brain
 
 - {:.indent-2} A million miles running 
 - {:.indent-2} I hate this but I saw it coming
+
+---
+
+## Footnotes
+
+[^fn1]: We all haev those nights where we drink too much trying ot figure out why were not enough. It is oen to intepretation you can not eb enough fro yourself, in this case a guy. I think this line is very relevant in so many peoples lives. 
 
 
 
